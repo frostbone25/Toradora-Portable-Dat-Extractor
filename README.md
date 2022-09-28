@@ -2,8 +2,20 @@
 This is a simple command line application that extracts files from .dat archives for the [Toradora Portable (PSP)](https://cdromance.com/psp/torador-portable-english/) Game.
 
 Usage: in the windows command prompt...
-`app.exe [input directory] [output directory]`
 
+`
+Program Usage:
+----------- EXTRACTION ----------
+For a single file.
+app.exe -extract input.dat [output directory]
+for multiple files.
+app.exe -extract [input directory] [output directory]
+----------- REBUILDING ----------
+app.exe -rebuild [input directory] [output directory]
+`
+
+- ***-extract*** extraction mode for the application, extracting data from a dat file.
+- ***-rebuild*** build mode for the application, packs a folder and the files inside of it into a dat file.
 - ***[input directory]*** is the directory path on the disk where the .dat files for the game are stored. The application looks for any .dat files in this directory for extraction.
 - ***[output directory]*** is the directory path on the disk where the extracted files for the .dat archive will be stored. When a dat file is extracted, there is a folder created in the output directory with the name of the dat file, and inside that folder all of the files inside the archive will be extracted here.
 
