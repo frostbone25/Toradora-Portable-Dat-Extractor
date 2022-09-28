@@ -13,3 +13,11 @@ F:\toradora-portable\custom-tools\dat-extractor\dat-extractor\obj\Debug\dat-extr
 F:\toradora-portable\custom-tools\dat-extractor\dat-extractor\obj\Debug\dat-extractor.csproj.CoreCompileInputs.cache
 F:\toradora-portable\custom-tools\dat-extractor\dat-extractor\obj\Debug\dat-extractor.exe
 F:\toradora-portable\custom-tools\dat-extractor\dat-extractor\obj\Debug\dat-extractor.pdb
+D:\Applications\app-custom-toradora-dat\Toradora-Portable-Dat-Extractor\dat-extractor\bin\Debug\dat-extractor.exe.config
+D:\Applications\app-custom-toradora-dat\Toradora-Portable-Dat-Extractor\dat-extractor\bin\Debug\dat-extractor.exe
+D:\Applications\app-custom-toradora-dat\Toradora-Portable-Dat-Extractor\dat-extractor\bin\Debug\dat-extractor.pdb
+D:\Applications\app-custom-toradora-dat\Toradora-Portable-Dat-Extractor\dat-extractor\obj\Debug\dat-extractor.csproj.AssemblyReference.cache
+D:\Applications\app-custom-toradora-dat\Toradora-Portable-Dat-Extractor\dat-extractor\obj\Debug\dat-extractor.csproj.SuggestedBindingRedirects.cache
+D:\Applications\app-custom-toradora-dat\Toradora-Portable-Dat-Extractor\dat-extractor\obj\Debug\dat-extractor.csproj.CoreCompileInputs.cache
+D:\Applications\app-custom-toradora-dat\Toradora-Portable-Dat-Extractor\dat-extractor\obj\Debug\dat-extractor.exe
+D:\Applications\app-custom-toradora-dat\Toradora-Portable-Dat-Extractor\dat-extractor\obj\Debug\dat-extractor.pdb
