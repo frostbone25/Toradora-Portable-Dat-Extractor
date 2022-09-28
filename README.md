@@ -3,16 +3,9 @@ This is a simple command line application that extracts files from .dat archives
 
 Usage: in the windows command prompt...
 
-`
-Program Usage:
------------ EXTRACTION ----------
-For a single file.
-app.exe -extract input.dat [output directory]
-for multiple files.
-app.exe -extract [input directory] [output directory]
------------ REBUILDING ----------
-app.exe -rebuild [input directory] [output directory]
-`
+`app.exe -extract input.dat [output directory]`
+`app.exe -extract [input directory] [output directory]`
+`app.exe -rebuild [input directory] [output directory]`
 
 - ***-extract*** extraction mode for the application, extracting data from a dat file.
 - ***-rebuild*** build mode for the application, packs a folder and the files inside of it into a dat file.
