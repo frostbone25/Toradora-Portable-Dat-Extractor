@@ -1,7 +1,7 @@
 # Toradora Portable (PSP) Dat File Extractor
 This is a simple command line application that extracts files from .dat archives for the [Toradora Portable (PSP)](https://cdromance.com/psp/torador-portable-english/) Game.
 
-Usage: in the command line...
+Usage: in the windows command prompt...
 `app.exe [input directory] [output directory]`
 
 - ***[input directory]*** is the directory path on the disk where the .dat files for the game are stored. The application looks for any .dat files in this directory for extraction.
