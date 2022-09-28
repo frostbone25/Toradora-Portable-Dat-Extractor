@@ -4,7 +4,9 @@ This is a simple command line application that extracts files from .dat archives
 Usage: in the windows command prompt...
 
 `app.exe -extract input.dat [output directory]`
+
 `app.exe -extract [input directory] [output directory]`
+
 `app.exe -rebuild [input directory] [output directory]`
 
 - ***-extract*** extraction mode for the application, extracting data from a dat file.
