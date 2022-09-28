@@ -15,4 +15,4 @@ Usage: in the windows command prompt...
 - ***[output directory]*** is the directory path on the disk where the extracted files for the .dat archive will be stored. When a dat file is extracted, there is a folder created in the output directory with the name of the dat file, and inside that folder all of the files inside the archive will be extracted here.
 
 ### TODO
-- Add functionality to rebuild a Toradora Portable .dat file from a directory for modding (should be fairly simple).
+- More ressarch on the building mode. There is a quick with my testing where some data archives that I extracted and rebuilt. Some offsets and overall data archive size aren't 1:1. There seems to be some additional byte padding that is going in the original data archive. If I can get some help correcting this you can make a pull request or get in contact, it would be much appreciated.
